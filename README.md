@@ -3,7 +3,7 @@
 
 ## Features
 **Rethonance Nozzle**
-(picture)
+**Add picture**
 V6 style nozzle with a built in ADXL 345 featuring non-zip (aka press-in) FFC connector. 
 
 This was designed by Cyd0nian and Reth as currently the only know true nozzle ADXL (besides E3D's Revo Rethonance Nozzle). The thought process was simple... why use a seperate adxl board? Why not just put the adxl in the nozzle?
@@ -14,6 +14,7 @@ On top of that we have added a thermister to the Rethonance Nozzle. This thermis
 
 
 **Rethonance Hub**
+**Add picture**
 One of the biggest annoiances for Reth was flipping the printer upside down to connect an adxl. 
 The fix to this issues was not as sparkling as the Rethonance Nozzle. He though why not just use a seperate board with a long USB cable. But, the little angel of Scope Creep was sitting on Reth's shoulder and did not let him just be happy with just a press-in FFC connector to USB. Oh no. Reth's Scope Creep angel decided lets add more, and lets add a mount with magnets so we can stick it on the bed. And thus, was born the Rethonance Hub. 
 
