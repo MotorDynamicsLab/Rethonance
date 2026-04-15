@@ -6,7 +6,7 @@
 (picture)
 V6 style nozzle with a built in ADXL 345 featuring non-zip (aka press-in) FFC connector. 
 
-This was designed by Cyd0nian and Reth as it would be currently the most accurate nozzle ADXL. The thought process was simple... why use a seperate adxl board? Why not just put the adxl in the nozzle?
+This was designed by Cyd0nian and Reth as currently the only know true nozzle ADXL (besides E3D's Revo Rethonance Nozzle). The thought process was simple... why use a seperate adxl board? Why not just put the adxl in the nozzle?
 This spark of inginutity bubbled up inside them until the effervescence of creativity exploded. Needing someone to contain such sparks of the mind Reth turned to LDO. LDO was able to control and funnel this stampede of ideas to bring to us all a tool that can allow anyone to be a member of * *The Unicorn Chasing Club* * 
 
 This Rethonance nozzle will fit any standard V6 hotened. The press-in FFC connector was chosen so that if by accident the FFC cable was pulled it would simply come out. In addition, it makes it easy to first screw in the Rethonance Nozzle and then add the FFC cable later. No need for that pesky latch.
