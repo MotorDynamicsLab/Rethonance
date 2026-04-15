@@ -15,7 +15,7 @@ On top of that we have added a thermister to the Rethonance Nozzle. This thermis
 
 **Rethonance Hub**
 One of the biggest annoiances for Reth was flipping the printer upside down to connect an adxl. 
-The fix to this issues was not as sparkling as the Rethonance Nozzle. He though why not just use a seperate board with a long USB cable. But, the little angle of Scope Creep was sitting on Reth's shoulder and did not let him just be happy with just a press-in FFC connector to USB. Oh no. Reth with his thoughts of Scope Creep decided lets add more, and lets add a mount with magnets so we can stick it on the bed. And thus, was born the Rethonance Hub. 
+The fix to this issues was not as sparkling as the Rethonance Nozzle. He though why not just use a seperate board with a long USB cable. But, the little angel of Scope Creep was sitting on Reth's shoulder and did not let him just be happy with just a press-in FFC connector to USB. Oh no. Reth's Scope Creep angel decided lets add more, and lets add a mount with magnets so we can stick it on the bed. And thus, was born the Rethonance Hub. 
 
 The Rethonance Hub has two press-in FFC connectors. The idea behind this was that one could be used for the Rethonance Nozzle and the other can be used with LDO's ADXL. Yup, they are pin compatible so you can use either the Rethonance Nozzle or LDO ADXL in either press-in FFC connector. 
 But, what do we do with all the other space on the GOB1? Why not add four thermisters so that when you are Chasing Unicorns on your LDO AWD you can attach a thermister to each of the motors. This could be used to determine if that run_current really is high by measuring the temperature of the motors. 
