@@ -1,10 +1,10 @@
 # Unicorn Chasing Kit
-The Unicorn Chasing Kit is a resonance compensation toolkit centred around two core components: the Rethonance Nozzle, a V6-compatible nozzle with a built-in ADXL345 accelerometer and the Rethonance Hub, a magnetic, bed-mountable board that consolidates connectivity for ADXL sensors, motor thermistors, and includes an expansion GPIO — all over a single USB connection. Together, they provide a convenient way for users to precisely measure resonance at actually where it matters - the nozzle.
+The Unicorn Chasing Kit is a resonance compensation toolkit centred around two core components: the Rethonance Nozzle, a V6-compatible nozzle with a built-in ADXL345 accelerometer and the Rethonance Hub, a magnetic, bed-mountable board that consolidates connectivity for ADXL sensors, motor thermistors, and a GPIO expansion port — all over a single USB connection. Together, they provide a convenient way for users to precisely measure resonance at where it actually matters - the nozzle.
 
 ## Rethonance Nozzle
 <img title="" src="./Media/rethonance_nozzle.jpg" alt="rethonance-nozzle" width="547">  
 
-The Rethonance Nozzle was designed by Cyd0nian and Reth as one of the only known true nozzle-integrated ADXL solutions available (alongside the E3D Revo Rethonance Nozzle). The concept is straightforward: rather than relying on a separate ADXL board, the sensor is embedded directly into the nozzle itself. Developed in collaboration with LDO, the Rethonance Nozzle makes resonance compensation accessible to a broad range of users and serves as the foundation of The *Unicorn Chasing Club*.
+The Rethonance Nozzle was designed by Cyd0nian and Reth as one of the only known true nozzle-integrated ADXL solutions available (alongside the E3D Revo Rethonance Nozzle). The concept is straightforward: rather than relying on a separate ADXL board, the sensor is embedded directly into the nozzle itself. Developed in collaboration with LDO, the Rethonance Nozzle serves as the foundation of The *Unicorn Chasing Club*.
 
 
 The Rethonance Nozzle is a V6-style nozzle with a built-in ADXL345 accelerometer, featuring a non-ZIF (press-in) FFC connector. A thermistor is integrated into the nozzle which, in conjunction with the recommended Klipper configuration, protects the ADXL chip from overheating. The nozzle is compatible with any hotend that accepts V6-style nozzles.  
